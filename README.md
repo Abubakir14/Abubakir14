@@ -1,4 +1,4 @@
-![Header](https://github.com/Abubakir14/Abubakir14/blob/main/assests/gitpanelimagejpg.jpg)
+<!-- ![Header](https://github.com/Abubakir14/Abubakir14/blob/main/assests/gitpanelimagejpg.jpg) -->
 
 # Hello I'm Middle Front-end Web Developer
 
